@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing AI Spark at the top right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M70,32 C70,36 74,38 78,38 C74,38 70,40 70,44 C70,40 66,38 62,38 C66,38 70,36 70,32 Z" />
+
+    <!-- Open Book / Study Base (centered around x=54, y=60) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 C46,50 36,49 28,52 L28,74 C36,71 46,72 54,76 C62,72 72,71 80,74 L80,52 C72,49 62,50 54,54 Z" />
+
+    <!-- Book Spine / Divider -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M53,53.5 L55,53.5 L55,76.5 L53,76.5 Z" />
+
+    <!-- Graduation Cap / Scholar Diamond above the book -->
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M54,34 L34,43 L54,52 L74,43 Z" />
+
+    <!-- Tassel / AI Prompt node -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M38,45 L38,55 A2,2 0 0,0 42,55 L42,47 Z" />
+
+    <!-- Center AI Sparkle on Cap -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,39 C54,41 55.5,42 57,42 C55.5,42 54,43 54,45 C54,43 52.5,42 51,42 C52.5,42 54,41 54,39 Z" />
+
+</vector>

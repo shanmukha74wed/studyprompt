@@ -1,0 +1,6 @@
+{
+  "name": "StudyPrompt AI",
+  "description": "Turn your study goals into powerful AI study prompts for ChatGPT, Gemini, and Claude.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
